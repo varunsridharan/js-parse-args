@@ -2,10 +2,10 @@ let $_json               = {};
 $_json[ 'project_name' ] = 'Sample';
 $_json[ 'scss' ]         = false;
 $_json[ 'js' ]           = {
-	"index.js": {
+	"build.js": {
 		babel: false,
 		webpack: true,
-		concat: 'js_parse_args.js',
+		concat: 'js-parse-args.js',
 		dist: "./",
 	}
 };
