@@ -1,0 +1,49 @@
+{
+	"name": "js-parse-args",
+	"version": "1.0.0",
+	"description": "is a generic utility for merging together an array of arguments and an array of default values. It can also be given a URL query type string which will be converted into an array (i.e. \"id=5&status=draft\"). ",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/varunsridharan/js-parse-args.git"
+	},
+	"keywords": [
+		"array",
+		"array_merge",
+		"parse_args",
+		"wp_parse_args",
+		"wp_parse_args_recursive"
+	],
+	"author": "Varun Sridharan",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/varunsridharan/js-parse-args/issues"
+	},
+	"homepage": "https://github.com/varunsridharan/js-parse-args#readme",
+	"devDependencies": {
+		"@babel/preset-env": "^7.1.0",
+		"babel-core": "^6.26.3",
+		"babel-loader": "^7.1.5",
+		"babel-preset-es2015": "^6.24.1",
+		"gulp": "^3.9.1",
+		"gulp-autoprefixer": "^6.0.0",
+		"gulp-babel": "^8.0.0",
+		"gulp-clean-css": "^3.10.0",
+		"gulp-combine-files": "^1.0.3",
+		"gulp-concat": "^2.6.1",
+		"gulp-notify": "^3.2.0",
+		"gulp-parcel": "^0.3.5",
+		"gulp-revert-path": "^2.0.0",
+		"gulp-sass": "^4.0.2",
+		"gulp-sourcemaps": "^2.6.4",
+		"gulp-uglify": "^3.0.1",
+		"gulp-util": "^3.0.8",
+		"parcel-bundler": "^1.10.3",
+		"run-sequence": "^2.2.1",
+		"webpack": "^4.22.0",
+		"webpack-stream": "^5.1.1"
+	}
+}
