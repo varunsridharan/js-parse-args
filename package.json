@@ -1,6 +1,6 @@
 {
 	"name": "js-parse-args",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "is a generic utility for merging together an array of arguments and an array of default values. It can also be given a URL query type string which will be converted into an array (i.e. \"id=5&status=draft\"). ",
 	"main": "index.js",
 	"scripts": {
@@ -8,16 +8,24 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/varunsridharan/js-parse-args.git"
+		"url": "https://github.com/varunsridharan/js-parse-args.git"
 	},
 	"keywords": [
 		"array",
 		"array_merge",
 		"parse_args",
 		"wp_parse_args",
-		"wp_parse_args_recursive"
+		"wp_parse_args_recursive",
+		"defaults",
+		"default_values",
+		"arguments",
+		"args"
 	],
-	"author": "Varun Sridharan",
+	"author": {
+		"name": "Varun Sridharan",
+		"email": "varunsridharan23@gmail.com",
+		"url": "http://varunsridharan.in"
+	},
 	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/varunsridharan/js-parse-args/issues"
