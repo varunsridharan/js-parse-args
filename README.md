@@ -73,6 +73,9 @@ console.log(parse_args_deep($args,$defaults));
 ---
 
 ## Change Log
+### 1.0.2 [09/04/2019]
+* Updated Base Boilerplate
+
 ### 1.0.1 [02/11/2018]
 * Updated Keywords & Author Details
 
