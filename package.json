@@ -1,6 +1,6 @@
 {
  "name": "js-parse-args",
- "version": "1.0.2",
+ "version": "1.0.3",
  "description": "is a generic utility for merging together an array of arguments and an array of default values. It can also be given a URL query type string which will be converted into an array (i.e. \"id=5&status=draft\"). ",
  "main": "index.js",
  "scripts": {
