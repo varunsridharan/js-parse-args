@@ -20,5 +20,5 @@ jobs:
       - run: git config --global user.email "varunsridharan23+npmbot@gmail.com" && git config --global user.name "NPM BOT"
       - run: npm install
       - run: gulp compile
-      - run: git commit -m "Source Code Rebuilt"
+      - run: git add -A && git commit -m "Source Code Rebuilt"
       - run: npm version patch
