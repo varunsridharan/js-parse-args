@@ -22,3 +22,9 @@ jobs:
       - run: gulp compile
       - run: git add -A && git commit -m "Source Code Rebuilt"
       - run: npm version patch
+      - run: git push "https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY" HEAD:master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: npm publish ./
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
