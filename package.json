@@ -32,7 +32,7 @@
  },
  "homepage": "https://github.com/varunsridharan/js-parse-args#readme",
  "devDependencies": {
-  "easy-gulp-tasker": "^1.0.5",
+  "easy-gulp-tasker": "^1.0.13",
   "lodash": "^4.17.11"
  }
 }
