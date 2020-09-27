@@ -72,21 +72,6 @@ console.log(parse_args($args,$defaults,true));
 
 ---
 
-## Change Log
-### 1.0.3 [20/04/2019]
-* Minor Bug Fixed.
-
-### 1.0.2 [09/04/2019]
-* Updated Base Boilerplate
-
-### 1.0.1 [02/11/2018]
-* Updated Keywords & Author Details
-
-### 1.0.0 [31/10/2018]
-* First Release
-
----
-
 ## 📝 Changelog
 All notable changes to this project will be documented in this file.
 
