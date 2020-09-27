@@ -6,9 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
-## 1.0.4 - 01/02/2020
+## 1.0.7 - 01/02/2020
 * Update Code Base & Reduced File Size.
 * Moved To Rollup.
+
+## 1.0.6 - 29/08/2019
+* Minor Bug Fixed.
 
 ## 1.0.5 - 21/04/2019
 * Minor Bug Fixed.
