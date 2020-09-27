@@ -2,7 +2,7 @@
  "name": "js-parse-args",
  "version": "1.0.6",
  "description": "is a generic utility for merging together an array of arguments and an array of default values. It can also be given a URL query type string which will be converted into an array (i.e. \"id=5&status=draft\"). ",
- "main": "index.js",
+ "main": "src/index.js",
  "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1"
  },
@@ -32,7 +32,6 @@
  },
  "homepage": "https://github.com/varunsridharan/js-parse-args#readme",
  "devDependencies": {
-  "easy-gulp-tasker": "^1.0.15",
-  "lodash": "^4.17.15"
+  "sofy": "*"
  }
 }
