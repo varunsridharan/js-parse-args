@@ -10,6 +10,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 * Update Code Base & Reduced File Size.
 * Moved To Rollup.
 
+## 1.0.5 - 21/04/2019
+* Minor Bug Fixed.
+
+## 1.0.4 - 21/04/2019
+* Minor Bug Fixed.
+
 ## 1.0.3 - 20/04/2019
 * Minor Bug Fixed.
 
