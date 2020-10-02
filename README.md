@@ -11,7 +11,7 @@ is a generic utility for merging together an array of arguments and an array of 
 
 ### Script Include
 ```html
-<script src="https://raw.githubusercontent.com/varunsridharan/js-parse-args/master/js-parse-args.js"/></script>
+<script src="https://raw.githubusercontent.com/varunsridharan/js-parse-args/main/dist/js-parse-args.min.js"/></script>
 ```
 
 # Usage

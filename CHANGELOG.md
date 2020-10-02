@@ -6,7 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
-## 1.0.7 - 01/02/2020
+## 1.0.8 - 02/10/2020
+* Changed License To MIT
+* Published In Github Package Registry
+
+## 1.0.7 - 01/10/2020
 * Update Code Base & Reduced File Size.
 * Moved To Rollup.
 
